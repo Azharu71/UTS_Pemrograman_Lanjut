@@ -1,0 +1,15 @@
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# Image files
+*.png
+
+# IDE-specific files (e.g., VS Code, Eclipse, IntelliJ)
+.vscode/
+.project
+.classpath
+.idea/
+*.iml
