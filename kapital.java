@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class subrutin {
+public class kapital {
 
     // Subrutin/fungsi untuk mencetak versi huruf kapital dari string
     public static void printCapitalized(String str) {
